@@ -1,0 +1,16 @@
+PODS:
+  - LRBaseKit (0.1.0)
+
+DEPENDENCIES:
+  - LRBaseKit (from `../`)
+
+EXTERNAL SOURCES:
+  LRBaseKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LRBaseKit: 93dd3bd4b371bc7c623cc3e8e53596e8c2ebac6c
+
+PODFILE CHECKSUM: 21ff87f5fede0e69de4a7b317455e90e35dea257
+
+COCOAPODS: 1.11.2

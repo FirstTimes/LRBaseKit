@@ -1,0 +1,6 @@
+framework module LRBaseKit {
+  umbrella header "LRBaseKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

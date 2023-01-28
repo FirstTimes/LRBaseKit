@@ -1,0 +1,22 @@
+{
+  "name": "LRBaseKit",
+  "version": "0.1.0",
+  "summary": "A short description of LRBaseKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lirui/LRBaseKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lirui": "lirui@zhaojiafang.com"
+  },
+  "source": {
+    "git": "https://github.com/lirui/LRBaseKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "LRBaseKit/Classes/**/*"
+}
